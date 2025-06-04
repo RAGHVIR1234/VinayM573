@@ -3,7 +3,7 @@
 🚀 I'm a passionate Software Developer focused on building intelligent, real-world solutions using AI and ML.
 
 ## 👀 Interests
-- Deep Learning & Computer Vision (YOLOv7, EfficientDet, OpenCV)
+- Deep Learning & Computer VisionsrW3RW4R34W4FefOv7, EfficientDet, OpenCV)
 - Natural Language Processing (spaCy, NLTK, Transformers)
 - AI-Powered Applications (Job matching, Resume parsing, Interview prep)
 - Data Engineering & Visualization
